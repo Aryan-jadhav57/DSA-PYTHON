@@ -10,4 +10,4 @@ print(check_array_sorted(nums))
 
 
 # TC is O(n)
-# SC is O(1)
+# SC is O(1) 
