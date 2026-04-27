@@ -6,7 +6,7 @@ def check_array_sorted(nums):
     return True
     
 nums = [3,5,6,8,19,10]
-print(check_array_sorted(nums))
+print(check_array_sorted(nums)) 
 
 
 # TC is O(n)
