@@ -12,7 +12,7 @@ def Remove_duplicate(nums):
         j+=1
         
     return j
-    
+     
 n = [1,1,1,2,3,4,4,7,9,9,9,10]
 print(Remove_duplicate(n))
 
