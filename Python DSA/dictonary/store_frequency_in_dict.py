@@ -1,7 +1,7 @@
 #type 1 
 def Frequency_map(n):
     nums = [5,6,7,7,8,5,6,3,2]
-    Frequency_map = dict()                      #A new empty dictionary is created and stored in the variable Frequency_map
+    Frequency_map = dict()                      #A new empty dictionary is created and stored in the variable Frequency_map 
     for i in range(0,len(nums)):
         if nums[i] in Frequency_map:
             Frequency_map[nums[i]] += 1
